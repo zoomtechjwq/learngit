@@ -1,1 +1,2 @@
 del2
+put to remote
